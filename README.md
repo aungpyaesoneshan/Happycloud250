@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Happycloud250
+- 👋 Hi, I’m Pyae Shan
 - 👀 I’m interested in web dev.
 - 🌱 I’m currently learning js.
 - 💞️ I’m looking to collaborate on web project.
