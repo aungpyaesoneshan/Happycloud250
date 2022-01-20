@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pyae Shan
 - 👀 I’m interested in web dev.
-- 🌱 I’m currently learning js.
+- 🌱 I’m currently learning front-end.
 - 💞️ I’m looking to collaborate on web project.
 - 📫 How to reach me happycloud250@gmail.com.
 
