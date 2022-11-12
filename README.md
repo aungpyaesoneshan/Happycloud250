@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aung Pyae Sone Shan
-- 👀 I’m interested in technology.
-- 🌱 I’m currently learning networking.
-- 💞️ I’m looking to collaborate on web project.
+- 👀 I’m interested in Technology.
+- 🌱 I’m currently learning Network Engineering.
+- 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me happycloud250@gmail.com.
 
 <!---
