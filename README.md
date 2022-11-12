@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Pyae Shan
-- 👀 I’m interested in web dev.
-- 🌱 I’m currently learning front-end.
+- 👋 Hi, I’m Aung Pyae Sone Shan
+- 👀 I’m interested in technology.
+- 🌱 I’m currently learning networking.
 - 💞️ I’m looking to collaborate on web project.
 - 📫 How to reach me happycloud250@gmail.com.
 
